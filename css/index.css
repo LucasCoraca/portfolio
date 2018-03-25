@@ -161,6 +161,8 @@ aside {
   float: left;
   background-color: #34495e;
   padding-top: 47px;
+  display: flex;
+  flex-direction: column;
 }
 
 aside h1, h3, h4 {
